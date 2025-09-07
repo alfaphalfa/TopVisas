@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --yes create-next-app@latest temp-app --typescript --tailwind --app --no-src-dir --use-npm --eslint --turbopack --import-alias \"@/*\")",
+      "Bash(rm:*)",
+      "Bash(npm install:*)",
+      "Bash(tree:*)",
+      "Bash(echo:*)",
+      "Bash(npx prettier:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Read(//c/**)",
+      "Bash(sed:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(for line in 1104 1140 1178 1217 1254 1292 1331 1368 1403 1440 1477 1514 2158 2193 2229 2268 2303 2340 2380 2418 2453 2492 2530 2567 2601 2639 2675 2712 2749 2787)",
+      "Bash(do)",
+      "Bash(done)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
