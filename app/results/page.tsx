@@ -738,7 +738,6 @@ export default function Results() {
           {/* Footer */}
           <div className="text-center mt-8 text-sm text-slate-500">
             <p>This assessment provides general guidance only. Consult an immigration attorney for legal advice.</p>
-            <p className="mt-2">Built for Manifest Law • eb1o1niw.me</p>
           </div>
         </div>
       </div>
@@ -930,7 +929,6 @@ export default function Results() {
         {/* Footer */}
         <div className="text-center mt-8 text-sm text-slate-500">
           <p>This assessment provides general guidance only. Consult an immigration attorney for legal advice.</p>
-          <p className="mt-2">Built for Manifest Law • eb1o1niw.me</p>
         </div>
       </div>
 
